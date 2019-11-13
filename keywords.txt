@@ -1,0 +1,44 @@
+##########################################################
+# Syntax Coloring Map
+##########################################################
+##########################################################
+# Datatypes (KEYWORD1)
+# Classes, datatypes, and C++ keywords
+##########################################################
+BAKS_I2C_LCD_12864	KEYWORD1
+lcd	KEYWORD1
+##########################################################
+# Methods and Functions (KEYWORD2)
+##########################################################
+begin	KEYWORD2
+cmd	KEYWORD2
+gotoxy	KEYWORD2
+letter	KEYWORD2
+string	KEYWORD2
+blit	KEYWORD2
+clear	KEYWORD2
+line	KEYWORD2
+scroll	KEYWORD2
+ledOn	KEYWORD2
+ledOff	KEYWORD2
+circle	KEYWORD2
+setInv	KEYWORD2
+fillCircle	KEYWORD2
+textSize	KEYWORD2
+setPixel	KEYWORD2
+fillRect	KEYWORD2
+frameRect	KEYWORD2
+expanderWrite	KEYWORD2
+readData	KEYWORD2
+writeData	KEYWORD2
+##########################################################
+# Methods and Functions (KEYWORD3)
+# setup and loop functions, as well as the Serial keywords
+##########################################################
+##########################################################
+# Constants (LITERAL1)
+##########################################################
+##########################################################
+# Constants (LITERAL2)
+# Built-in variables (unused by default)
+##########################################################
